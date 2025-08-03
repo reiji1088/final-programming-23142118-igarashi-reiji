@@ -54,7 +54,7 @@ int main() {
     file.close();
 
     int Start, End, questionCount;
-    cout << "出題範囲を入力してください（例: 1 500）: ";
+    cout << "出題範囲を入力してください（例: 1 600）: ";
     cin >> Start >> End;
 
     if (Start < 1 || End > wordList.size() || Start > End) {
@@ -108,6 +108,7 @@ int main() {
     for (it = targetList.begin(); it != targetList.begin() + questionCount; ++it) {
         cout << "- " << it->english << " : " << it->japanese << endl;
     }
+
 
     return 0;
 }
