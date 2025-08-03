@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\reiji\\OneDrive - \u6771\u4EAC\u90FD\u516C\u7ACB\u5927\u5B66\u6CD5\u4EBA\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C82\\\u30D7\u30ED\u30B0\u30E9\u30DF\u30F3\u30B0\u6F14\u7FD2\u2161\\\u6388\u696D\u8AB2\u984C\\\u30D7\u30ED\u30B0\u30E9\u30DF\u30F3\u30B0\u6F14\u7FD2\u2161\u6700\u7D42\u8AB2\u984C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4A95AC-C320-4F00-82DB-43EF0A839080}|\u30D7\u30ED\u30B0\u30E9\u30DF\u30F3\u30B0\u6F14\u7FD2\u2161\u6700\u7D42\u8AB2\u984C\\\u30D7\u30ED\u30B0\u30E9\u30DF\u30F3\u30B0\u6F14\u7FD2\u2161\u6700\u7D42\u8AB2\u984C.vcxproj|C:\\Users\\reiji\\OneDrive - \u6771\u4EAC\u90FD\u516C\u7ACB\u5927\u5B66\u6CD5\u4EBA\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C82\\\u30D7\u30ED\u30B0\u30E9\u30DF\u30F3\u30B0\u6F14\u7FD2\u2161\\\u6388\u696D\u8AB2\u984C\\\u30D7\u30ED\u30B0\u30E9\u30DF\u30F3\u30B0\u6F14\u7FD2\u2161\u6700\u7D42\u8AB2\u984C\\\u30D7\u30ED\u30B0\u30E9\u30DF\u30F3\u30B0\u6F14\u7FD2\u2161\u6700\u7D42\u8AB2\u984C\\No14.HW.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D4A95AC-C320-4F00-82DB-43EF0A839080}|\u30D7\u30ED\u30B0\u30E9\u30DF\u30F3\u30B0\u6F14\u7FD2\u2161\u6700\u7D42\u8AB2\u984C\\\u30D7\u30ED\u30B0\u30E9\u30DF\u30F3\u30B0\u6F14\u7FD2\u2161\u6700\u7D42\u8AB2\u984C.vcxproj|solutionrelative:\u30D7\u30ED\u30B0\u30E9\u30DF\u30F3\u30B0\u6F14\u7FD2\u2161\u6700\u7D42\u8AB2\u984C\\No14.HW.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "No14.HW.cpp",
+              "DocumentMoniker": "C:\\Users\\reiji\\OneDrive - \u6771\u4EAC\u90FD\u516C\u7ACB\u5927\u5B66\u6CD5\u4EBA\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C82\\\u30D7\u30ED\u30B0\u30E9\u30DF\u30F3\u30B0\u6F14\u7FD2\u2161\\\u6388\u696D\u8AB2\u984C\\\u30D7\u30ED\u30B0\u30E9\u30DF\u30F3\u30B0\u6F14\u7FD2\u2161\u6700\u7D42\u8AB2\u984C\\\u30D7\u30ED\u30B0\u30E9\u30DF\u30F3\u30B0\u6F14\u7FD2\u2161\u6700\u7D42\u8AB2\u984C\\No14.HW.cpp",
+              "RelativeDocumentMoniker": "\u30D7\u30ED\u30B0\u30E9\u30DF\u30F3\u30B0\u6F14\u7FD2\u2161\u6700\u7D42\u8AB2\u984C\\No14.HW.cpp",
+              "ToolTip": "C:\\Users\\reiji\\OneDrive - \u6771\u4EAC\u90FD\u516C\u7ACB\u5927\u5B66\u6CD5\u4EBA\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C82\\\u30D7\u30ED\u30B0\u30E9\u30DF\u30F3\u30B0\u6F14\u7FD2\u2161\\\u6388\u696D\u8AB2\u984C\\\u30D7\u30ED\u30B0\u30E9\u30DF\u30F3\u30B0\u6F14\u7FD2\u2161\u6700\u7D42\u8AB2\u984C\\\u30D7\u30ED\u30B0\u30E9\u30DF\u30F3\u30B0\u6F14\u7FD2\u2161\u6700\u7D42\u8AB2\u984C\\No14.HW.cpp",
+              "RelativeToolTip": "\u30D7\u30ED\u30B0\u30E9\u30DF\u30F3\u30B0\u6F14\u7FD2\u2161\u6700\u7D42\u8AB2\u984C\\No14.HW.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-28T06:07:06.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
